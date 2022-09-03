@@ -1,0 +1,15 @@
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\bin\Debug\net6.0\combustivel.exe
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\bin\Debug\net6.0\combustivel.deps.json
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\bin\Debug\net6.0\combustivel.runtimeconfig.json
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\bin\Debug\net6.0\combustivel.dll
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\bin\Debug\net6.0\combustivel.pdb
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.csproj.AssemblyReference.cache
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.AssemblyInfo.cs
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.dll
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\refint\combustivel.dll
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.pdb
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\combustivel.genruntimeconfig.cache
+C:\Projetos\Pessoal\.net\ajudaGaah\combustivel\obj\Debug\net6.0\ref\combustivel.dll
